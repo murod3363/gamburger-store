@@ -1,0 +1,53 @@
+@media (max-width: 767px) {
+    .form{
+        height: 450px;
+    }
+}
+@media (max-width: 767px) {
+    .form{
+        height: 430px;
+    }
+}
+@media (max-width: 684px) {
+    .form{
+        width: 300px;
+        height: 400px;
+    }
+    .form.active {
+        transform: translate(-58%, -56%);
+    }
+}
+@media (max-width: 684px) {
+    .form.active {
+        transform: translate(-51%, -56%);
+    }
+}
+@media (max-width: 575px) {
+    .form.active {
+        transform: translate(-40%, -56%);
+    }
+}
+@media (max-width: 425px) {
+    .form.active {
+        transform: translate(-18%, -56%);
+    }
+}
+@media (max-width: 384px) {
+    .form.active {
+        transform: translate(-11%, -56%);
+    }
+}
+@media (max-width: 375px) {
+    .form.active {
+        transform: translate(-10%, -56%);
+    }
+}
+@media (max-width: 360px) {
+    .form.active {
+        transform: translate(-7%, -56%);
+    }
+}@media (max-width: 320px) {
+    .form.active {
+        transform: translate(0, -56%);
+    }
+}
